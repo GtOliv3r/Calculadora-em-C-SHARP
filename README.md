@@ -1,1 +1,1 @@
-# Calculadora
+Olá Todos! Nesse Projeto de Windows Forms lhes apresento um calculadora simples. Ela possui as 4 operaões básicas e outras funções comuns de calculadoras normais. Esse Projeto foi importante para mimm já que foi a minha primeira experència real com Windows Forms. Desde já agradeço pela atenção e até a próxima! 
